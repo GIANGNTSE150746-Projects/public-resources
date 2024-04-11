@@ -1,2 +1,2 @@
-# public-resources
-amazing public programming resources
+# Public Resources
+## All Amazing Programming Resources should be collected. Here is the place :octocat:
